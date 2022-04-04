@@ -1,0 +1,17 @@
+* {
+    font-family: Helvetica, sans-serif;
+    color: #232323;
+    margin: 0;
+    padding: 0;
+}
+
+/* DEBUG -> * {
+    background: #000 !important;
+    color: #0f0 !important;
+    outline: solid #f00 1px !important;
+} */
+
+@font-face {
+    font-family: 'Bacalisties';
+    src: url('/bacalisties.ttf');
+}
